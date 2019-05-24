@@ -1,0 +1,13 @@
+/Users/macbookair/Projects/Libras/Libras/obj/Debug/netstandard2.0/Libras.csprojAssemblyReference.cache
+/Users/macbookair/Projects/Libras/Libras/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/macbookair/Projects/Libras/Libras/obj/Debug/netstandard2.0/Views/MainPage.xaml.g.cs
+/Users/macbookair/Projects/Libras/Libras/obj/Debug/netstandard2.0/Views/TrainingView.xaml.g.cs
+/Users/macbookair/Projects/Libras/Libras/obj/Debug/netstandard2.0/Libras.csproj.CoreCompileInputs.cache
+/Users/macbookair/Projects/Libras/Libras/obj/Debug/netstandard2.0/Libras.AssemblyInfoInputs.cache
+/Users/macbookair/Projects/Libras/Libras/obj/Debug/netstandard2.0/Libras.AssemblyInfo.cs
+/Users/macbookair/Projects/Libras/Libras/bin/Debug/netstandard2.0/Libras.deps.json
+/Users/macbookair/Projects/Libras/Libras/bin/Debug/netstandard2.0/Libras.dll
+/Users/macbookair/Projects/Libras/Libras/bin/Debug/netstandard2.0/Libras.pdb
+/Users/macbookair/Projects/Libras/Libras/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/macbookair/Projects/Libras/Libras/obj/Debug/netstandard2.0/Libras.dll
+/Users/macbookair/Projects/Libras/Libras/obj/Debug/netstandard2.0/Libras.pdb

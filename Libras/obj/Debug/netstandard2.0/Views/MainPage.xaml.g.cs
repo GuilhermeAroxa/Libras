@@ -8,9 +8,9 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("Libras.Views.MainPage.xaml", "Views/MainPage.xaml", typeof(global::LWLH.MainPage))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("Libras.Views.MainPage.xaml", "Views/MainPage.xaml", typeof(global::Libras.MainPage))]
 
-namespace LWLH {
+namespace Libras {
     
     
     [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("Views/MainPage.xaml")]

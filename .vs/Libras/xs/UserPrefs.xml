@@ -1,16 +1,19 @@
 ﻿<Properties StartupConfiguration="{E712373F-8C84-411A-8A2D-4C824D1D2EE2}|Default">
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Libras/Views/TrainingView.xaml">
+    <Files>
+      <File FileName="Libras/Views/TrainingView.xaml" />
+      <File FileName="Libras/Views/MainPage.xaml" />
+      <File FileName="Libras/ViewModels/MainPageViewModel.cs" Line="13" Column="14" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Libras" expanded="True">
             <Node name="Libras" expanded="True">
-              <Node name="ViewModels" expanded="True">
-                <Node name="MainPageViewModel.cs" selected="True" />
-              </Node>
+              <Node name="Dependencies" expanded="True" />
+              <Node name="ViewModels" expanded="True" />
               <Node name="Views" expanded="True">
-                <Node name="MainPage.xaml" expanded="True" />
-                <Node name="TrainingView.xaml" expanded="True" />
+                <Node name="TrainingView.xaml" selected="True" />
               </Node>
             </Node>
           </Node>
@@ -22,7 +25,6 @@
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.Libras.Android FirstBuild="True" PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Libras FirstBuild="True" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
